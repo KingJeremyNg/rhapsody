@@ -1,0 +1,19 @@
+{
+  "name": "rhapsody",
+  "version": "1.0.0",
+  "description": "Synthesia Alternative",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingJeremyNg/rhapsody.git"
+  },
+  "author": "",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/KingJeremyNg/rhapsody/issues"
+  },
+  "homepage": "https://github.com/KingJeremyNg/rhapsody#readme"
+}
