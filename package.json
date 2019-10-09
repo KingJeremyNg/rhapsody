@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KingJeremyNg/rhapsody/issues"
   },
-  "homepage": "https://github.com/KingJeremyNg/rhapsody#readme"
+  "homepage": "https://github.com/KingJeremyNg/rhapsody#readme",
+  "dependencies": {
+    "tone": "^13.8.25"
+  }
 }
